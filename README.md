@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋, I'am Ruchita Pramod Marodkar</h1>
 
 ###
 
-<p align="left">My name is Ruchita  from Buldhana</p>
+<p align="left">A passionted frontend developer from India</p>
 
 ###
 
